@@ -1,1 +1,1 @@
-Readme file for Auto-Valuator
+Readme file for Auto-Valuator.
